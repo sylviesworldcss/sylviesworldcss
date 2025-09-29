@@ -9,7 +9,7 @@ With 15+ years in film, fashion, and live events, I understand what it takes to 
 I’m currently working on refining front-end projects & building business case studies with interactive web apps. HTML, CSS, JavaScript, and Bootstrap.
 
 * 🚀 See my portfolio at [sylviesworldcss](http://sylviesworldcss.my.canva.site/)
-* ⚡ I'm currently working on ['When's Your Birthday App': A Digital Creator Case Study](http://https://sylviesworldcss.github.io/zodiac-sign-generator/)
+* ⚡ I'm currently working on ['When's Your Birthday App': A Digital Creator Case Study](https://github.com/sylviesworldcss/zodiac-sign-generator)
 * 🧠 I'm currently learning, and I recently rebuilt my portfolio showcasing, integrating JotForm, full-stack JavaScript, strategic copy, client demo sites, and intentional layout mapping.
 * 🔭 I’m looking to collaborate on creative coding solutions, design-focused tools, or music-related apps and software!
 * 😄 Ask me about a timeline where Pete Townsend of 'The Who' would have played guitar on MJ's 'Beat It' had he not been busy when Quincy Jones called. Eddie Van Halen WAS avail, though, and the music gods said, "This shall be ICONIC."
